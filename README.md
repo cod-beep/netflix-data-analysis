@@ -1,17 +1,29 @@
-# netflix-data-analysis
-Exploratory Data Analysis on Netflix titles dataset using Python, Pandas, and Seaborn.
-## 📊 Netflix Data Analysis Project
+# 📊 Netflix Data Analysis Project
 
-This project analyzes the Netflix Titles dataset using Python libraries like Pandas, Matplotlib, and Seaborn. It explores:
+This project explores and analyzes the Netflix Titles dataset using Python and popular data analysis libraries.
 
-- Total number of Movies vs TV Shows
-- Top 10 countries with most Netflix content
-- Content added over the years
-- Key trends and visual insights
+## 🔍 Objectives
 
-### 🔧 Tools Used:
+- Compare Movies vs TV Shows
+- Identify top 10 countries with most content
+- Analyze trends in content added over the years
+- Visualize insights using bar charts and count plots
+
+## 📦 Tools Used
+
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+## 📈 Key Insights
+
+- Netflix has more **Movies** than **TV Shows**
+- The **United States** dominates Netflix content, followed by India and the UK
+- Most content was added between **2017 and 2020**
+- Rapid expansion in content after **2015**
+
+## 💾 Dataset
+
+Netflix Titles from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
